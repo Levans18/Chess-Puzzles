@@ -1,4 +1,4 @@
-# Chess-Puzzles
+# Chess-Puzzles ♟️
 
 ## Summary 📖
 Chess Puzzles in the command line using C++
